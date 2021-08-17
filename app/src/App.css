@@ -8,3 +8,14 @@
   max-width: 720px;
   margin: 4rem auto auto;
 }
+
+.accdata div {
+  display: inline;
+}
+.accdata h4 {
+  display: inline;
+}
+.accdata p {
+  display: inline;
+  margin-left: 16px;
+}
